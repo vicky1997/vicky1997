@@ -45,5 +45,5 @@ cta_button_label: contact # the label on the button
 
  
 
-I am a Msc Physics/Astrophysics student at Ludwig-Maximilians-University of Munich. My interests range broadly from Star formation to Astrophysical Fluid dynamics. My current interests are in turbulent magnentic fields in astrophysical scales. In my free time I play the violin and crack jokes to annoy other people through the instagram handle PunPaadu.
+I am a Msc Physics/Astrophysics student at Ludwig-Maximilians-University of Munich. My interests range broadly from star formation to astrophysical fluid dynamics. My current interests are in turbulent magnentic fields in astrophysical scales. In my free time I play the violin and crack jokes to annoy other people through the instagram handle PunPaadu.
   
