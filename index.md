@@ -15,7 +15,7 @@ page_url: /hello # only include this variable if you aren't building the page to
 favicon: /assets/ico/favicon.ico
 
 # social media
-twitter_username: @vicky_vaikunth # # your twitter handle
+twitter_username: @turbulenthuman # # your twitter handle
 github_username:  vicky1997 # your github username
 linkedin: vignesh-vaikundaraman-571292135 # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
