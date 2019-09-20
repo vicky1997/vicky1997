@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Vignesh Vaikundaraman
+author: Vignesh Vaikundaraman
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+ Personal website of Vignesh Vaikundaraman
+baseurl: "vicky1997.github.io"
 
 plugins:
   - jekyll-feed
