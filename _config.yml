@@ -16,7 +16,7 @@ plugins:
   
 #---------------------------------------------------
 include:
- - work.yml
+ - /data/work.yml
  - index.md
 exclude:
   - .sass-cache/
