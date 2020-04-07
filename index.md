@@ -12,7 +12,7 @@ background_image: /images/background.jpeg
 #page_url: /hello # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
-#favicon: /assets/ico/favicon.ico
+favicon: /assets/ico/favicon.ico
 
 # social media
 twitter_username: @turbulenthuman # # your twitter handle
@@ -46,4 +46,4 @@ cta_button_label: contact # the label on the button
  
 
 I am a Msc Physics/Astrophysics student at Ludwig-Maximilians-University of Munich. My interests range broadly from star formation to astrophysical fluid dynamics. My current interests are in turbulent magnentic fields in astrophysical scales. In my free time I play the violin and crack jokes to annoy other people through the instagram handle PunPaadu.
-  
+Viduthala venuma muttala iru.  
