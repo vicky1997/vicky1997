@@ -7,13 +7,17 @@ description: >
  Personal website of Vignesh Vaikundaraman
 baseurl: "vicky1997.github.io"
 
+
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   
 #---------------------------------------------------
-
+include:
+ - work.yml
+ - index.md
 exclude:
   - .sass-cache/
   - .jekyll-cache/
